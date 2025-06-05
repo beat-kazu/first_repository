@@ -1,0 +1,4 @@
+name: plugin_sample_for_git
+version: '1.0-SNAPSHOT'
+main: plugin.sample.Main
+api-version: '1.21'
